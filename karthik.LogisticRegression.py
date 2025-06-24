@@ -32,7 +32,7 @@ from sklearn.linear_model import LogisticRegression
 karthik2=LogisticRegression()
 karthik2.fit(x_train,y_train)
 
-karthik2.predict(x_test,)
+karthik2.predict(x_test)
 karthik2.predict([[30]])
 
 karthik2.score(x_test,y_test)*100
