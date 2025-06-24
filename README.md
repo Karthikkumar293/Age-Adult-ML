@@ -1,5 +1,5 @@
 # Age-Adult-ML
-# Age to Adult Classifier
+# Age to Adult Classifier (Machine Learning)
 
 This project uses logistic regression to classify whether a person is an adult (18 years or older) based on their age. It is a simple binary classification model built using Python, Pandas, NumPy, and Scikit-learn.
 
