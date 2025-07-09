@@ -33,7 +33,8 @@ karthik2=LogisticRegression()
 karthik2.fit(x_train,y_train)
 
 karthik2.predict(x_test)
-karthik2.predict([[30]])
+age_input = float(input("enter your age"))
+karthik2.predict([[age_input]])
 
 karthik2.score(x_test,y_test)*100
 #output(100.0)%
