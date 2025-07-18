@@ -12,7 +12,7 @@ df2 = pd.DataFrame({
 
 # Print without index
 print(df2.head(10).to_string(index=False))
-# --taken data set from ai--
+# --taken data set from ai--#
 
 df2.head(1000)
 df2.isnull()
